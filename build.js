@@ -4,6 +4,7 @@ const path = require('node:path');
 const root = __dirname;
 const manifest = JSON.parse(fs.readFileSync(path.join(root, 'manifest.json'), 'utf8'));
 const catalogRoot = path.join(root, 'catalog');
+const metaRoot = path.join(root, 'meta');
 
 function fail(message) {
   console.error(`Catalog validation failed: ${message}`);
@@ -11,6 +12,7 @@ function fail(message) {
 }
 
 fs.rmSync(catalogRoot, { recursive: true, force: true });
+fs.rmSync(metaRoot, { recursive: true, force: true });
 
 for (const catalog of manifest.catalogs) {
   if (!['movie', 'series'].includes(catalog.type)) {
@@ -71,6 +73,31 @@ for (const catalog of manifest.catalogs) {
     const meta = { id: item.id, type: catalog.type, name: item.name.trim(), poster };
     if (Number.isInteger(item.year) && item.year > 1800 && item.year < 2200) meta.year = item.year;
     metas.push(meta);
+
+    // Meta resource detayları
+    const metaDetails = {
+      id: item.id,
+      type: catalog.type,
+      name: item.name.trim(),
+      poster: poster,
+      background: item.background || poster,
+      description: item.description || `${catalog.name} orijinal içeriği.`,
+      genres: item.genres || [catalog.type === 'movie' ? 'Film' : 'Dizi', catalog.name.split(' ')[0]]
+    };
+    if (meta.year) metaDetails.year = meta.year;
+
+    const metaDirs = [
+      path.join(root, 'meta', catalog.type),
+      path.join(catalogRoot, 'meta', catalog.type)
+    ];
+    for (const mDir of metaDirs) {
+      fs.mkdirSync(mDir, { recursive: true });
+      fs.writeFileSync(
+        path.join(mDir, `${item.id}.json`),
+        `${JSON.stringify({ meta: metaDetails }, null, 2)}\n`,
+        'utf8'
+      );
+    }
   }
 
   const outputDir = path.join(catalogRoot, catalog.type);
@@ -83,5 +110,5 @@ for (const catalog of manifest.catalogs) {
 }
 
 if (!process.exitCode) {
-  console.log(`Built ${manifest.catalogs.length} catalogs: ${manifest.catalogs.map(({ id }) => id).join(', ')}`);
+  console.log(`Built ${manifest.catalogs.length} catalogs and metadata endpoints: ${manifest.catalogs.map(({ id }) => id).join(', ')}`);
 }
