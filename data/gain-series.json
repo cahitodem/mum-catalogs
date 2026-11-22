@@ -1,8 +1,19 @@
 {
   "items": [
-    { "id": "tt14344266", "name": "Ayak İşleri", "year": 2021 },
-    { "id": "tt13470984", "name": "10 Bin Adım", "year": 2020 },
-    { "id": "tt15299654", "name": "Duran", "year": 2022 },
-    { "id": "tt14032126", "name": "Hamlet", "year": 2021 }
+    { "id": "tt14344266", "name": "Ayak İşleri", "year": 2021, "poster": "https://images.justwatch.com/poster/245581247/s718/ayak-isleri.jpg" },
+    { "id": "tt13470984", "name": "10 Bin Adım", "year": 2020, "poster": "https://images.justwatch.com/poster/259361184/s718/sezon-2.jpg" },
+    { "id": "tt15299654", "name": "Duran", "year": 2022, "poster": "https://images.justwatch.com/poster/259370183/s718/duran.jpg" },
+    { "id": "tt14032126", "name": "Hamlet", "year": 2021, "poster": "https://cdn.30nama.com/poster/30398636-b_30NAMA.jpg" },
+    { "id": "tt7920978", "name": "Şahsiyet", "year": 2018, "poster": "https://image.tmdb.org/t/p/w500/74ZirTThrt4VE6bbGunx2MIT22v.jpg" },
+    { "id": "tt19079130", "name": "El Turco", "year": 2025, "poster": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/4/depophotos18642085jpg-OsRnIy9IhE6iXY4DwwPEcA.jpg" },
+    { "id": "tt14183052", "name": "Doğu", "year": 2021, "poster": "https://artworks.thetvdb.com/banners/v4/series/395122/posters/61ea8b6b9e73e.jpg" },
+    { "id": "tt31027788", "name": "Mahsun J", "year": 2024, "poster": "https://image.tmdb.org/t/p/w500/44HyENSNqhmvCQ0nAjbaYpFh8Av.jpg" },
+    { "id": "tt31435998", "name": "Dengeler: Biri Olmak", "year": 2024 },
+    { "id": "tt21308746", "name": "RU", "year": 2024, "poster": "https://images.justwatch.com/poster/323480922/s718/ru.jpg" },
+    { "id": "tt26547403", "name": "Dünya Bu", "year": 2023, "poster": "https://images.justwatch.com/poster/307513758/s718/dunya-bu.jpg" },
+    { "id": "tt18644688", "name": "Aslında Özgürsün", "year": 2022, "poster": "https://img.dizi.la/uploads/35332/FRa2CBYXwAE9Tpf.jpeg" },
+    { "id": "tt21029674", "name": "Cezailer", "year": 2022 },
+    { "id": "tt33036023", "name": "Esas Oğlan", "year": 2024 },
+    { "id": "tt37172523", "name": "Modern Kadın", "year": 2025 }
   ]
 }

@@ -9,7 +9,7 @@ Nuvio için kişisel, düzenlenebilir Exxen ve GAİN katalogları. Bu proje yaln
 - GAİN Filmleri
 - GAİN Dizileri
 
-Başlangıç listesinde Exxen için *Gibi*, *Mahsun J*, *Karşılaşmalar*, *Hükümsüz* ve *Sizi Dinliyorum*; GAİN için *Ayak İşleri*, *10 Bin Adım*, *Duran* ve *Hamlet* bulunur. Platform katalogları ve kullanılabilirlik zaman içinde değişebileceğinden listedeki içerikleri kendiniz güncel tutun.
+Kataloglar şu an doğrulanmış IMDb kimlikleri bulunan dizi ve programlardan oluşan bir başlangıç listesidir. Exxen ana sayfasındaki tam liste ve TMDB GAİN ağı düzenli değişebilir; bu depodaki listeler bu sayfaların otomatik ve eksiksiz kopyası değildir. Yeni başlıkları `data/` altına ekleyip derleyebilirsiniz. Mahsun J, TMDB'deki GAİN ağına göre GAİN kataloğunda tutulur.
 
 ## İçerik ekleme
 

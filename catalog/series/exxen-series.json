@@ -4,36 +4,78 @@
       "id": "tt13675832",
       "type": "series",
       "name": "Gibi",
-      "poster": "https://images.metahub.space/poster/medium/tt13675832/img",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/394290/posters/63125c12df16b.jpg",
       "year": 2021
-    },
-    {
-      "id": "tt31027788",
-      "type": "series",
-      "name": "Mahsun J",
-      "poster": "https://images.metahub.space/poster/medium/tt31027788/img",
-      "year": 2024
     },
     {
       "id": "tt33998293",
       "type": "series",
       "name": "Karşılaşmalar",
-      "poster": "https://images.metahub.space/poster/medium/tt33998293/img",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/454036/posters/66d61a836c8d6.jpg",
       "year": 2024
     },
     {
       "id": "tt13437388",
       "type": "series",
       "name": "Hükümsüz",
-      "poster": "https://images.metahub.space/poster/medium/tt13437388/img",
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/394222/posters/64ba6be8de419.jpg",
       "year": 2021
     },
     {
       "id": "tt21194680",
       "type": "series",
       "name": "Sizi Dinliyorum",
-      "poster": "https://images.metahub.space/poster/medium/tt21194680/img",
+      "poster": "https://image.tmdb.org/t/p/w500/hrrGNBqnGet8vuBoXQRssIIOEnh.jpg",
       "year": 2022
+    },
+    {
+      "id": "tt1831164",
+      "type": "series",
+      "name": "Leyla ile Mecnun",
+      "poster": "https://images.metahub.space/poster/medium/tt1831164/img",
+      "year": 2011
+    },
+    {
+      "id": "tt13247296",
+      "type": "series",
+      "name": "Şeref Bey",
+      "poster": "https://cdn.sinemalar.com/images/movie/270929/poster/seref-bey-1718976034.jpg",
+      "year": 2021
+    },
+    {
+      "id": "tt13528822",
+      "type": "series",
+      "name": "Öğrenci Evi",
+      "poster": "https://image.tmdb.org/t/p/w500/nieZdYIsbZFa7HXN7dlh4Hioy16.jpg",
+      "year": 2021
+    },
+    {
+      "id": "tt13717946",
+      "type": "series",
+      "name": "Olağan Şüpheliler",
+      "poster": "https://images.metahub.space/poster/medium/tt13717946/img",
+      "year": 2021
+    },
+    {
+      "id": "tt34819808",
+      "type": "series",
+      "name": "Anonim",
+      "poster": "https://images.metahub.space/poster/medium/tt34819808/img",
+      "year": 2024
+    },
+    {
+      "id": "tt38896081",
+      "type": "series",
+      "name": "Karma",
+      "poster": "https://images.metahub.space/poster/medium/tt38896081/img",
+      "year": 2025
+    },
+    {
+      "id": "tt13364024",
+      "type": "series",
+      "name": "Sihirli Annem",
+      "poster": "https://bingeddata.s3.amazonaws.com/uploads/2021/01/mhglPMwYn0h5odG6OBRaAkAXmCU.jpg",
+      "year": 2021
     }
   ]
 }

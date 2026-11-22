@@ -1,9 +1,15 @@
 {
   "items": [
-    { "id": "tt13675832", "name": "Gibi", "year": 2021 },
-    { "id": "tt31027788", "name": "Mahsun J", "year": 2024 },
-    { "id": "tt33998293", "name": "Karşılaşmalar", "year": 2024 },
-    { "id": "tt13437388", "name": "Hükümsüz", "year": 2021 },
-    { "id": "tt21194680", "name": "Sizi Dinliyorum", "year": 2022 }
+    { "id": "tt13675832", "name": "Gibi", "year": 2021, "poster": "https://artworks.thetvdb.com/banners/v4/series/394290/posters/63125c12df16b.jpg" },
+    { "id": "tt33998293", "name": "Karşılaşmalar", "year": 2024, "poster": "https://artworks.thetvdb.com/banners/v4/series/454036/posters/66d61a836c8d6.jpg" },
+    { "id": "tt13437388", "name": "Hükümsüz", "year": 2021, "poster": "https://artworks.thetvdb.com/banners/v4/series/394222/posters/64ba6be8de419.jpg" },
+    { "id": "tt21194680", "name": "Sizi Dinliyorum", "year": 2022, "poster": "https://image.tmdb.org/t/p/w500/hrrGNBqnGet8vuBoXQRssIIOEnh.jpg" },
+    { "id": "tt1831164", "name": "Leyla ile Mecnun", "year": 2011 },
+    { "id": "tt13247296", "name": "Şeref Bey", "year": 2021, "poster": "https://cdn.sinemalar.com/images/movie/270929/poster/seref-bey-1718976034.jpg" },
+    { "id": "tt13528822", "name": "Öğrenci Evi", "year": 2021, "poster": "https://image.tmdb.org/t/p/w500/nieZdYIsbZFa7HXN7dlh4Hioy16.jpg" },
+    { "id": "tt13717946", "name": "Olağan Şüpheliler", "year": 2021 },
+    { "id": "tt34819808", "name": "Anonim", "year": 2024 },
+    { "id": "tt38896081", "name": "Karma", "year": 2025 },
+    { "id": "tt13364024", "name": "Sihirli Annem", "year": 2021, "poster": "https://bingeddata.s3.amazonaws.com/uploads/2021/01/mhglPMwYn0h5odG6OBRaAkAXmCU.jpg" }
   ]
 }
