@@ -1,19 +1,393 @@
 {
   "items": [
-    { "id": "tt14344266", "name": "Ayak İşleri", "year": 2021, "poster": "https://images.justwatch.com/poster/245581247/s718/ayak-isleri.jpg" },
-    { "id": "tt13470984", "name": "10 Bin Adım", "year": 2020, "poster": "https://images.justwatch.com/poster/259361184/s718/sezon-2.jpg" },
-    { "id": "tt15299654", "name": "Duran", "year": 2022, "poster": "https://images.justwatch.com/poster/259370183/s718/duran.jpg" },
-    { "id": "tt14032126", "name": "Hamlet", "year": 2021, "poster": "https://cdn.30nama.com/poster/30398636-b_30NAMA.jpg" },
-    { "id": "tt7920978", "name": "Şahsiyet", "year": 2018, "poster": "https://image.tmdb.org/t/p/w500/74ZirTThrt4VE6bbGunx2MIT22v.jpg" },
-    { "id": "tt19079130", "name": "El Turco", "year": 2025, "poster": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/4/depophotos18642085jpg-OsRnIy9IhE6iXY4DwwPEcA.jpg" },
-    { "id": "tt14183052", "name": "Doğu", "year": 2021, "poster": "https://artworks.thetvdb.com/banners/v4/series/395122/posters/61ea8b6b9e73e.jpg" },
-    { "id": "tt31027788", "name": "Mahsun J", "year": 2024, "poster": "https://image.tmdb.org/t/p/w500/44HyENSNqhmvCQ0nAjbaYpFh8Av.jpg" },
-    { "id": "tt31435998", "name": "Dengeler: Biri Olmak", "year": 2024 },
-    { "id": "tt21308746", "name": "RU", "year": 2024, "poster": "https://images.justwatch.com/poster/323480922/s718/ru.jpg" },
-    { "id": "tt26547403", "name": "Dünya Bu", "year": 2023, "poster": "https://images.justwatch.com/poster/307513758/s718/dunya-bu.jpg" },
-    { "id": "tt18644688", "name": "Aslında Özgürsün", "year": 2022, "poster": "https://img.dizi.la/uploads/35332/FRa2CBYXwAE9Tpf.jpeg" },
-    { "id": "tt21029674", "name": "Cezailer", "year": 2022 },
-    { "id": "tt33036023", "name": "Esas Oğlan", "year": 2024 },
-    { "id": "tt37172523", "name": "Modern Kadın", "year": 2025 }
+    {
+      "id": "tt15665202",
+      "name": "#Etkileyici",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/vqarM5Uvl9JAHPj0FA8N2aXJKTl.jpg"
+    },
+    {
+      "id": "tt13470984",
+      "name": "10 Bin Adım",
+      "year": 2020,
+      "poster": "https://images.metahub.space/poster/medium/tt13470984/img"
+    },
+    {
+      "id": "tt16022170",
+      "name": "500T: Bir Ön Yolculuğu",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/hSYgpyMeDYBo2YXQg33LC1LJwKE.jpg"
+    },
+    {
+      "id": "tt15679464",
+      "name": "Ah Sanal Dünya",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/fE6FZQJmBUwGXUBLvJ3yM8z3VGG.jpg"
+    },
+    {
+      "id": "tt50621348",
+      "name": "Ankara Apartmanları",
+      "poster": "https://image.tmdb.org/t/p/w500/xqHwrq6X9wAr6qKB97fumuGFzkD.jpg",
+      "year": 2022
+    },
+    {
+      "id": "tt31704015",
+      "name": "Arjen",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/rUZFMcDpKCs3wDqmU9YQHCFb56x.jpg"
+    },
+    {
+      "id": "tt18644688",
+      "name": "Aslında Özgürsün",
+      "year": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt18644688/img"
+    },
+    {
+      "id": "tt14344266",
+      "name": "Ayak İşleri",
+      "year": 2021,
+      "poster": "https://images.metahub.space/poster/medium/tt14344266/img"
+    },
+    {
+      "id": "tt33889469",
+      "name": "Aşk Adası",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/aSTaa1U5eDrXhz2rDLfFRsyWDGO.jpg"
+    },
+    {
+      "id": "tt35300803",
+      "name": "Başkan: Ev Hapsi",
+      "poster": "https://images.metahub.space/poster/medium/tt35300803/img"
+    },
+    {
+      "id": "tt19062634",
+      "name": "Ben Varım",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/ejddY2HyJl04mCYktKvf2QwCFoh.jpg"
+    },
+    {
+      "id": "tt13766922",
+      "name": "Beni Kendimden Koru",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/miDlGW6YSmXXvzboiwCZkiQEy7h.jpg"
+    },
+    {
+      "id": "tt13734880",
+      "name": "Bir Şifa Bağımlısının İtirafları",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/7J0CKECdHPkiCuiH6Znb3Cf55zo.jpg"
+    },
+    {
+      "id": "tt13923144",
+      "name": "Bizi Ayıran Çizgi",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/8C7KbDww7MQ2kym5YX59ClTuGNi.jpg"
+    },
+    {
+      "id": "tt21029674",
+      "name": "Cezailer",
+      "year": 2022,
+      "poster": "https://images.metahub.space/poster/medium/tt21029674/img"
+    },
+    {
+      "id": "tt39892250",
+      "name": "covid ON9",
+      "poster": "https://image.tmdb.org/t/p/w500/8TAnmQQcgoDnx7yNlSfRav19eqU.jpg",
+      "year": 2021
+    },
+    {
+      "id": "tt21430192",
+      "name": "Dalga: Karadeniz'in Gizli Gücü",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/rgH8LBeO9LFMs9v8KGRCpytSiJl.jpg"
+    },
+    {
+      "id": "tt15404408",
+      "name": "Dayı Şov",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/w0AE72po7QYEFRvegYF3Hg5ZycT.jpg"
+    },
+    {
+      "id": "tt17939800",
+      "name": "Deli Dolu Masa",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/hsBE1i2vJ6Lp2nEhD8TSSkiotpI.jpg"
+    },
+    {
+      "id": "tt31435998",
+      "name": "Dengeler: Biri Olmak",
+      "year": 2024,
+      "poster": "https://m.media-amazon.com/images/M/MV5BODMxNGVjZWUtYTc4Ni00ZjdhLWExNzAtZjAwZTc3ZTdhNjUyXkEyXkFqcGc@._V1_.jpg"
+    },
+    {
+      "id": "tt11690294",
+      "name": "Dertleşme",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w500/nbPuZWj83qTEwBksR2P6f8UQ4Og.jpg"
+    },
+    {
+      "id": "tt14183052",
+      "name": "Doğu",
+      "year": 2021,
+      "poster": "https://artworks.thetvdb.com/banners/v4/series/395122/posters/61ea8b6b9e73e.jpg"
+    },
+    {
+      "id": "tt16794298",
+      "name": "Duraktan Durağa",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/oFeuo2poYqVcwCvf9xSyAnqBIC2.jpg"
+    },
+    {
+      "id": "tt15299654",
+      "name": "Duran",
+      "year": 2022,
+      "poster": "https://images.justwatch.com/poster/259370183/s718/duran.jpg"
+    },
+    {
+      "id": "tt26547403",
+      "name": "Dünya Bu",
+      "year": 2023,
+      "poster": "https://images.metahub.space/poster/medium/tt26547403/img"
+    },
+    {
+      "id": "tt19079130",
+      "name": "El Turco",
+      "year": 2025,
+      "poster": "https://sozcu01.sozcucdn.com/sozcu/production/uploads/images/2025/4/depophotos18642085jpg-OsRnIy9IhE6iXY4DwwPEcA.jpg"
+    },
+    {
+      "id": "tt13714776",
+      "name": "Ele Güne Karşı",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/aMhsJflwM86I86y4rv8WTBufHZQ.jpg"
+    },
+    {
+      "id": "tt36912910",
+      "name": "Elçin Sangu ile 101",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/qXSHwuCaDMKIoKJbwNKdjvZ4R9q.jpg"
+    },
+    {
+      "id": "tt33036023",
+      "name": "Esas Oğlan",
+      "year": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt33036023/img"
+    },
+    {
+      "id": "tt13856832",
+      "name": "Ex Aşkım",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/wDrxY1rA81FXgzCirWgEZp0eqCd.jpg"
+    },
+    {
+      "id": "tt38749915",
+      "name": "FER",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500/trQua0uAT4CM3ZrZyoNbMUvLLDK.jpg"
+    },
+    {
+      "id": "tt38974455",
+      "name": "Final Gate",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/ynHvtOlJcqrSyB69keCVv8iMgcD.jpg"
+    },
+    {
+      "id": "tt15661012",
+      "name": "GAİN Açık Mikrofon",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/8EY6m3QGxoaboJriZ4rZ744TB9Q.jpg"
+    },
+    {
+      "id": "tt14032126",
+      "name": "Hamlet",
+      "year": 2021,
+      "poster": "https://cdn.30nama.com/poster/30398636-b_30NAMA.jpg"
+    },
+    {
+      "id": "tt36507430",
+      "name": "Hatıran Yeter",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/p7iJDlzE93304AVtEj5RLGrh9oS.jpg"
+    },
+    {
+      "id": "tt24075356",
+      "name": "Heykel Mi?",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/ciiytLUM5jTR8efacBerUl7MUwu.jpg"
+    },
+    {
+      "id": "tt13734876",
+      "name": "İstanbul Hesabı",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/4LPzz8EfhTEKTZLUfLTHlTo9Ese.jpg"
+    },
+    {
+      "id": "tt13853350",
+      "name": "Jülide Ateş ile 40",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w500/nsobv9DKl4okwkF1ibPnJv2yJws.jpg"
+    },
+    {
+      "id": "tt19367224",
+      "name": "KALT Sports",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/fYJcyvO6NHABggGD4jV8Rdyftkg.jpg"
+    },
+    {
+      "id": "tt20843062",
+      "name": "Konuşmamız Lazım",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/gReBjuqZKCuhVy4Z1w9Ri1BClhu.jpg"
+    },
+    {
+      "id": "tt30825199",
+      "name": "Kurtuluş Lisesi",
+      "year": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt30825199/img"
+    },
+    {
+      "id": "tt39319722",
+      "name": "Köstebekgiller: Güneş Günlüğü",
+      "poster": "https://image.tmdb.org/t/p/w500/7gC0B2i9jmLJexXN11l5M2o6A8y.jpg",
+      "year": 2026
+    },
+    {
+      "id": "tt31027788",
+      "name": "Mahsun J",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/44HyENSNqhmvCQ0nAjbaYpFh8Av.jpg"
+    },
+    {
+      "id": "tt14193896",
+      "name": "Metot",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/nGSwRrtM3eAxDp4jRXYHEvCiAv2.jpg"
+    },
+    {
+      "id": "tt22244866",
+      "name": "Mevzular: Açık Mikrofon",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/SXtzG8u4I87RqXXvDkeU8mujH4.jpg"
+    },
+    {
+      "id": "tt37172523",
+      "name": "Modern Kadın",
+      "year": 2025,
+      "poster": "https://images.metahub.space/poster/medium/tt37172523/img"
+    },
+    {
+      "id": "tt15404360",
+      "name": "Orta! Kafa! Aşk!",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/iOPBgM8HzoQ8rTttPBtaA5DgP87.jpg"
+    },
+    {
+      "id": "tt13737380",
+      "name": "Oyunlar Holding",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/y1L3pR2SXVXzzQvJpRv3UV3L2JO.jpg"
+    },
+    {
+      "id": "tt7667390",
+      "name": "P!NÇ",
+      "year": 2017,
+      "poster": "https://image.tmdb.org/t/p/w500/1QeDhMq5WXA7T10hdoyxaKWKywG.jpg"
+    },
+    {
+      "id": "tt21308746",
+      "name": "RU",
+      "year": 2024,
+      "poster": "https://images.justwatch.com/poster/323480922/s718/ru.jpg"
+    },
+    {
+      "id": "tt18926854",
+      "name": "Sakin",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/68QyxDKrIPtUXu7mW8oaZV5lsMv.jpg"
+    },
+    {
+      "id": "tt13503990",
+      "name": "Senkron",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/ygDrW9pnA90CjdCuu0O4BAEfmtf.jpg"
+    },
+    {
+      "id": "tt36473743",
+      "name": "Son Kare",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/jwVRYnc6IwReY9bURd2svzJezP6.jpg"
+    },
+    {
+      "id": "tt13728634",
+      "name": "Terapist",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/zpcnU6LSbjlznWMjynQ8qoYmFWm.jpg"
+    },
+    {
+      "id": "tt13734870",
+      "name": "Vedat Milor ile En İyisi",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/x0FTPIkPx8NMj9Cwpn00dTlFgPQ.jpg"
+    },
+    {
+      "id": "tt31123801",
+      "name": "Yarın Yokmuş Gibi",
+      "year": 2024,
+      "poster": "https://image.tmdb.org/t/p/w500/4Aok6T1J315KQvegzjH9juiq9W3.jpg"
+    },
+    {
+      "id": "tt23049906",
+      "name": "Yatırım Tavsiyesi Değildir",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/wKxWcmbhhfkdJzMmuNmz7Oc2xus.jpg"
+    },
+    {
+      "id": "tt31162791",
+      "name": "Çok Yakın Çok Uzak",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/5S0QbaaY1rCHGqabYEaWlEyoDAW.jpg"
+    },
+    {
+      "id": "tt13760850",
+      "name": "Özelden Yürüyenler",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/mDKwMNUdsZ289sQjsszgiQg3GcT.jpg"
+    },
+    {
+      "id": "tt7920978",
+      "name": "Şahsiyet",
+      "year": 2018,
+      "poster": "https://images.metahub.space/poster/medium/tt7920978/img"
+    },
+    {
+      "id": "tt19390462",
+      "name": "Şaka Bi' Yana",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/fsIjd4TP7ckRQdm15Ud8BSMUIaY.jpg"
+    },
+    {
+      "id": "tt16737052",
+      "name": "Şokopop Portreler: Banu Alkan",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/kGhxo72tNN8gNm6dR2ckxya6HsG.jpg"
+    },
+    {
+      "id": "tt16737094",
+      "name": "Şokopop Portreler: Hülya Avşar",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w500/7eBXyPWD3gCZwRBX8PSXu4HWog9.jpg"
+    },
+    {
+      "id": "tt14842088",
+      "name": "Şokopop Portreler: Megastar Tarkan",
+      "year": 2021,
+      "poster": "https://image.tmdb.org/t/p/w500/hDm8TjtJ5bCsy0YFNdxjbpIKaH2.jpg"
+    },
+    {
+      "id": "tt16737058",
+      "name": "Şokopop Portreler: Zeki Müren",
+      "year": 2020,
+      "poster": "https://image.tmdb.org/t/p/w500/zjHdqr2mtxwl2JcT9Ja9IuVN4cn.jpg"
+    }
   ]
 }

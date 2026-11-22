@@ -1,11 +1,186 @@
 {
   "metas": [
     {
+      "id": "tt15404372",
+      "type": "series",
+      "name": "103 Gol",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/E/Mw/1308802/poster-tr_25.jpg?v=639101186179895798",
+      "year": 2021
+    },
+    {
+      "id": "tt13724454",
+      "type": "series",
+      "name": "2008 Milli Takım Hikayesi",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/G/RK/1308796/poster-tr_25.jpg?v=639101186276721288",
+      "year": 2021
+    },
+    {
+      "id": "tt13685582",
+      "type": "series",
+      "name": "@EnisArikan",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/m/HE/1308799/poster-tr_25.jpg?v=639101186076086089",
+      "year": 2021
+    },
+    {
+      "id": "tt14342244",
+      "type": "series",
+      "name": "Adım Başı Kafe",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/k/TH/1308982/thumbnail-tr_25.jpg?v=639101186384814772",
+      "year": 2021
+    },
+    {
+      "id": "tt13690458",
+      "type": "series",
+      "name": "Akıl Oyunları",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/u/HK/1308985/poster-tr_25.jpg?v=639101186489936423",
+      "year": 2021
+    },
+    {
+      "id": "tt34819808",
+      "type": "series",
+      "name": "Anonim",
+      "poster": "https://m.media-amazon.com/images/M/MV5BYzU4YTI4NTEtNTU5Ni00NDZkLWEyYmYtYWM4ZmI1YzVmY2UxXkEyXkFqcGc@._V1_.jpg",
+      "year": 2024
+    },
+    {
+      "id": "tt16457404",
+      "type": "series",
+      "name": "Arabeskin Aşık Kadınları",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/A/pw/1309162/poster-tr_25.jpg?v=639101186791539167",
+      "year": 2021
+    },
+    {
+      "id": "tt13707530",
+      "type": "series",
+      "name": "Astrolojik Şifreler",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/o/Bv/1309192/poster-tr_25.jpg?v=639101187024105544",
+      "year": 2021
+    },
+    {
+      "id": "tt13704270",
+      "type": "series",
+      "name": "Ayak Tenis",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/l/8j/1309000/poster-tr_25.jpg?v=639101187217549924",
+      "year": 2021
+    },
+    {
+      "id": "tt16711824",
+      "type": "series",
+      "name": "Aşk Kumardır",
+      "poster": "https://image.tmdb.org/t/p/w500/inSWnomV5mHjXSiWpVepqcSJdw1.jpg",
+      "year": 2022
+    },
+    {
+      "id": "tt14431178",
+      "type": "series",
+      "name": "Benim İçin Yap",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/G/us/1309006/poster-tr_25.jpg?v=639101187373531948",
+      "year": 2021
+    },
+    {
+      "id": "tt13712772",
+      "type": "series",
+      "name": "Buraların Yabancısıyız",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/x/iK/1309012/poster-tr_25.jpg?v=639101187595139277",
+      "year": 2021
+    },
+    {
+      "id": "tt13977720",
+      "type": "series",
+      "name": "Büyük Değişim",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/N/Gd/1309015/poster-tr_25.jpg?v=639101187703591055",
+      "year": 2021
+    },
+    {
+      "id": "tt13745606",
+      "type": "series",
+      "name": "Cadde Cadde İstanbul",
+      "poster": "https://images.metahub.space/poster/medium/tt13745606/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13735774",
+      "type": "series",
+      "name": "Enes Batur'la Buluşma",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/O/9d/1309018/poster-tr_25.jpg?v=639101188071415021",
+      "year": 2021
+    },
+    {
+      "id": "tt23738874",
+      "type": "series",
+      "name": "Esnaf",
+      "poster": "https://images.metahub.space/poster/medium/tt23738874/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13707558",
+      "type": "series",
+      "name": "Fight Club Exxen",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/f/Up/1309021/poster-tr_25.jpg?v=639101188301482311",
+      "year": 2021
+    },
+    {
       "id": "tt13675832",
       "type": "series",
       "name": "Gibi",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/394290/posters/63125c12df16b.jpg",
+      "poster": "https://images.metahub.space/poster/medium/tt13675832/img",
       "year": 2021
+    },
+    {
+      "id": "tt13766822",
+      "type": "series",
+      "name": "Grj Dans",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/J/79/1309033/poster-tr_25.jpg?v=639101188745448589",
+      "year": 2021
+    },
+    {
+      "id": "tt13813630",
+      "type": "series",
+      "name": "Hayalimdeki Düğün",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/4/C8/1309036/poster-tr_25.jpg?v=639101188850630094",
+      "year": 2021
+    },
+    {
+      "id": "tt13437388",
+      "type": "series",
+      "name": "Hükümsüz",
+      "poster": "https://images.metahub.space/poster/medium/tt13437388/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13748376",
+      "type": "series",
+      "name": "İlginç Bazı Olaylar",
+      "poster": "https://images.metahub.space/poster/medium/tt13748376/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13583468",
+      "type": "series",
+      "name": "İşte Bu Benim Masalım",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/5/7P/1309045/thumbnail-tr_25.jpg?v=639101189386722961",
+      "year": 2021
+    },
+    {
+      "id": "tt16538710",
+      "type": "series",
+      "name": "İşte Kadınlar",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/k/i_/1309168/poster-tr_25.jpg?v=639101189492225613",
+      "year": 2021
+    },
+    {
+      "id": "tt36163026",
+      "type": "series",
+      "name": "Kara Kenan",
+      "poster": "https://image.tmdb.org/t/p/w500/txlswG8QBHeHXJ5LYbgmYCyMzPu.jpg",
+      "year": 2025
+    },
+    {
+      "id": "tt38896081",
+      "type": "series",
+      "name": "Karma",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMWRjN2NkYWItMWYwNi00MDE2LTlkZTMtYjJjYzk2OWFjZjdjXkEyXkFqcGc@._V1_.jpg",
+      "year": 2025
     },
     {
       "id": "tt33998293",
@@ -15,18 +190,32 @@
       "year": 2024
     },
     {
-      "id": "tt13437388",
+      "id": "tt26505945",
       "type": "series",
-      "name": "Hükümsüz",
-      "poster": "https://artworks.thetvdb.com/banners/v4/series/394222/posters/64ba6be8de419.jpg",
+      "name": "Katarsis",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/G/Wh/1309048/poster-tr_25.jpg?v=639101189597976301",
+      "year": 2023
+    },
+    {
+      "id": "tt13736352",
+      "type": "series",
+      "name": "Kesin Yaşanmıştır",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/y/TO/1309060/poster-tr_25.jpg?v=639101189961206499",
       "year": 2021
     },
     {
-      "id": "tt21194680",
+      "id": "tt13685530",
       "type": "series",
-      "name": "Sizi Dinliyorum",
-      "poster": "https://image.tmdb.org/t/p/w500/hrrGNBqnGet8vuBoXQRssIIOEnh.jpg",
-      "year": 2022
+      "name": "Kirli Çamaşırlar",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/d/l9/1309063/poster-tr_25.jpg?v=639101190079837588",
+      "year": 2021
+    },
+    {
+      "id": "tt13667230",
+      "type": "series",
+      "name": "Konuşanlar",
+      "poster": "https://image.tmdb.org/t/p/w500/gTJZ9d49dLI2m1vv1Ufi3Cx7rMt.jpg",
+      "year": 2021
     },
     {
       "id": "tt1831164",
@@ -36,17 +225,24 @@
       "year": 2011
     },
     {
-      "id": "tt13247296",
+      "id": "tt13707550",
       "type": "series",
-      "name": "Şeref Bey",
-      "poster": "https://cdn.sinemalar.com/images/movie/270929/poster/seref-bey-1718976034.jpg",
+      "name": "Nasıl Zayıflarım?",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/v/0j/1309081/poster-tr_25.jpg?v=639101190946130949",
       "year": 2021
     },
     {
-      "id": "tt13528822",
+      "id": "tt33049571",
       "type": "series",
-      "name": "Öğrenci Evi",
-      "poster": "https://image.tmdb.org/t/p/w500/nieZdYIsbZFa7HXN7dlh4Hioy16.jpg",
+      "name": "Nemlizade",
+      "poster": "https://images.metahub.space/poster/medium/tt33049571/img",
+      "year": 2023
+    },
+    {
+      "id": "tt13169104",
+      "type": "series",
+      "name": "O Ses Türkiye Rap",
+      "poster": "https://images.metahub.space/poster/medium/tt13169104/img",
       "year": 2021
     },
     {
@@ -57,24 +253,178 @@
       "year": 2021
     },
     {
-      "id": "tt34819808",
+      "id": "tt15404378",
       "type": "series",
-      "name": "Anonim",
-      "poster": "https://images.metahub.space/poster/medium/tt34819808/img",
-      "year": 2024
+      "name": "Pascal Nouma",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/w/hZ/1309171/poster-tr_25.jpg?v=639101191846008964",
+      "year": 2021
     },
     {
-      "id": "tt38896081",
+      "id": "tt20319260",
       "type": "series",
-      "name": "Karma",
-      "poster": "https://images.metahub.space/poster/medium/tt38896081/img",
-      "year": 2025
+      "name": "Sadece Arkadaşız",
+      "poster": "https://image.tmdb.org/t/p/w500/mqOD3FhBNNwxWBNVE4mjvtsQfSj.jpg",
+      "year": 2022
+    },
+    {
+      "id": "tt13776918",
+      "type": "series",
+      "name": "Sağlıklı Kaçamak",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/w/hp/1309111/poster-tr_25.jpg?v=639101192167976102",
+      "year": 2021
+    },
+    {
+      "id": "tt13723198",
+      "type": "series",
+      "name": "Sesli Güldüm",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/R/zl/1309114/poster-tr_25.jpg?v=639101192273146717",
+      "year": 2021
     },
     {
       "id": "tt13364024",
       "type": "series",
       "name": "Sihirli Annem",
       "poster": "https://bingeddata.s3.amazonaws.com/uploads/2021/01/mhglPMwYn0h5odG6OBRaAkAXmCU.jpg",
+      "year": 2021
+    },
+    {
+      "id": "tt21194680",
+      "type": "series",
+      "name": "Sizi Dinliyorum",
+      "poster": "https://image.tmdb.org/t/p/w500/hrrGNBqnGet8vuBoXQRssIIOEnh.jpg",
+      "year": 2022
+    },
+    {
+      "id": "tt13745576",
+      "type": "series",
+      "name": "Stalk Show",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/M/n0/1309123/poster-tr_25.jpg?v=639101192611157594",
+      "year": 2021
+    },
+    {
+      "id": "tt15033694",
+      "type": "series",
+      "name": "Stand-Up Evreni",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/-/gQ/1309174/poster-tr_25.jpg?v=639101192729590308",
+      "year": 2021
+    },
+    {
+      "id": "tt13748482",
+      "type": "series",
+      "name": "Stiller Konuşsun",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/w/0I/1309126/poster-tr_25.jpg?v=639101192863293778",
+      "year": 2021
+    },
+    {
+      "id": "tt13751478",
+      "type": "series",
+      "name": "Survivor Exxen Cup",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/F/aq/1309129/poster-tr_25.jpg?v=639101193015314182",
+      "year": 2021
+    },
+    {
+      "id": "tt13731764",
+      "type": "series",
+      "name": "Süper 1 Takım",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/y/vj/1309132/poster-tr_25.jpg?v=639101193153566381",
+      "year": 2021
+    },
+    {
+      "id": "tt13712168",
+      "type": "series",
+      "name": "Sürprizimiz Var",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/R/KP/1309135/poster-tr_25.jpg?v=639101193248662001",
+      "year": 2021
+    },
+    {
+      "id": "tt13748440",
+      "type": "series",
+      "name": "Tasarım Evler",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/J/Zu/1309147/poster-tr_25.jpg?v=639101193682538959",
+      "year": 2021
+    },
+    {
+      "id": "tt35113031",
+      "type": "series",
+      "name": "Tertemiz",
+      "poster": "https://image.tmdb.org/t/p/w500/vUEoccgTd3WKze09RpuDgpdutKj.jpg",
+      "year": 2024
+    },
+    {
+      "id": "tt7827112",
+      "type": "series",
+      "name": "Tolgshow Filtresiz",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/t/R3/1309246/poster-tr_25.jpg?v=639101193881131661",
+      "year": 2017
+    },
+    {
+      "id": "tt32857277",
+      "type": "series",
+      "name": "Tolgshow Çılgın Sezon",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/i/_6/1309177/poster-tr_25.jpg?v=639101193788465293",
+      "year": 2023
+    },
+    {
+      "id": "tt15747068",
+      "type": "series",
+      "name": "Türkiye'deki Seri Katiller",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/9/Os/1309180/poster-tr_25.jpg?v=639101194076182634",
+      "year": 2021
+    },
+    {
+      "id": "tt21766660",
+      "type": "series",
+      "name": "Yazgı",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/G/x0/1309183/poster-tr_25.jpg?v=639101194270910218",
+      "year": 2022
+    },
+    {
+      "id": "tt13691420",
+      "type": "series",
+      "name": "Yetiş Zeynep",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/e/Cq/1309156/thumbnail-tr_25.jpg?v=639101194406335303",
+      "year": 2021
+    },
+    {
+      "id": "tt13680536",
+      "type": "series",
+      "name": "Zeynep Bastık ve Konukları",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/Z/nP/1309159/poster-tr_25.jpg?v=639101194511768844",
+      "year": 2021
+    },
+    {
+      "id": "tt13856804",
+      "type": "series",
+      "name": "Ölüm Zamanı",
+      "poster": "https://images.metahub.space/poster/medium/tt13856804/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13745588",
+      "type": "series",
+      "name": "Özcan Show",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/a/6b/1309102/poster-tr_25.jpg?v=639101191733913872",
+      "year": 2021
+    },
+    {
+      "id": "tt13528822",
+      "type": "series",
+      "name": "Öğrenci Evi",
+      "poster": "https://image.tmdb.org/t/p/w500/nieZdYIsbZFa7HXN7dlh4Hioy16.jpg",
+      "year": 2021
+    },
+    {
+      "id": "tt13712172",
+      "type": "series",
+      "name": "Şanslı mı? Şanssız mı?",
+      "poster": "https://9a7vnbgaoiah.merlincdn.net/content/n/E2/1309138/poster-tr_25.jpg?v=639101193349906088",
+      "year": 2021
+    },
+    {
+      "id": "tt13247296",
+      "type": "series",
+      "name": "Şeref Bey",
+      "poster": "https://cdn.sinemalar.com/images/movie/270929/poster/seref-bey-1718976034.jpg",
       "year": 2021
     }
   ]

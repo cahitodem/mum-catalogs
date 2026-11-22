@@ -1,3 +1,64 @@
 {
-  "items": []
+  "items": [
+    {
+      "id": "tt18978178",
+      "name": "'93 Yazı",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/k1PtxEl3vLjbtkG8wtn5KPapvZC.jpg"
+    },
+    {
+      "id": "tt36499979",
+      "name": "Aşk mı Para mı?",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/cYn3N0LULkbJjWzHuxP3xTYJI.jpg"
+    },
+    {
+      "id": "tt44567090",
+      "name": "İlk Aşkın Tohumları",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/gQZen9CZO2wmvtB7GmFUYBucRCd.jpg"
+    },
+    {
+      "id": "tt19869804",
+      "name": "İstanbul'a Sürgün",
+      "year": 2022,
+      "poster": "https://image.tmdb.org/t/p/w500/s7gw4K0edasDdq5oDf2I3TLLt4h.jpg"
+    },
+    {
+      "id": "tt44929926",
+      "name": "Kör Talih",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500/cpewUcEo4xkZLSEaAFHPBzbyyod.jpg"
+    },
+    {
+      "id": "tt44934103",
+      "name": "Son Perde Aşk",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/izkfqihz0aFG6mbZilv8zhMVZil.jpg"
+    },
+    {
+      "id": "tt42908457",
+      "name": "Sınırsız",
+      "year": 2025,
+      "poster": "https://image.tmdb.org/t/p/w500/xAGhKtNc6dw2CrrZ3QIFpCB1V5P.jpg"
+    },
+    {
+      "id": "tt45370840",
+      "name": "Yalancı Komşu",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/ipF8vjrmNUezsdGMq1Bi89Fjghn.jpg"
+    },
+    {
+      "id": "tt44909613",
+      "name": "Yasak Aşkın Günahı",
+      "year": 2026,
+      "poster": "https://image.tmdb.org/t/p/w500/dFUSp3CmtGKijWZn1vxTis3Iz9i.jpg"
+    },
+    {
+      "id": "tt43614764",
+      "name": "Şişman",
+      "year": 2024,
+      "poster": "https://images.metahub.space/poster/medium/tt43614764/img"
+    }
+  ]
 }
