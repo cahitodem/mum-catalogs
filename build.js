@@ -62,7 +62,13 @@ for (const catalog of manifest.catalogs) {
     }
     seen.add(item.id);
 
-    const meta = { id: item.id, type: catalog.type, name: item.name.trim() };
+    const poster = item.poster || `https://images.metahub.space/poster/medium/${item.id}/img`;
+    if (typeof poster !== 'string' || !poster.startsWith('https://')) {
+      fail(`Item ${item.id} in ${catalog.id} needs an HTTPS poster URL`);
+      continue;
+    }
+
+    const meta = { id: item.id, type: catalog.type, name: item.name.trim(), poster };
     if (Number.isInteger(item.year) && item.year > 1800 && item.year < 2200) meta.year = item.year;
     metas.push(meta);
   }

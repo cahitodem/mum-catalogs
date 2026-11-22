@@ -4,7 +4,36 @@
       "id": "tt13675832",
       "type": "series",
       "name": "Gibi",
+      "poster": "https://images.metahub.space/poster/medium/tt13675832/img",
       "year": 2021
+    },
+    {
+      "id": "tt31027788",
+      "type": "series",
+      "name": "Mahsun J",
+      "poster": "https://images.metahub.space/poster/medium/tt31027788/img",
+      "year": 2024
+    },
+    {
+      "id": "tt33998293",
+      "type": "series",
+      "name": "Karşılaşmalar",
+      "poster": "https://images.metahub.space/poster/medium/tt33998293/img",
+      "year": 2024
+    },
+    {
+      "id": "tt13437388",
+      "type": "series",
+      "name": "Hükümsüz",
+      "poster": "https://images.metahub.space/poster/medium/tt13437388/img",
+      "year": 2021
+    },
+    {
+      "id": "tt21194680",
+      "type": "series",
+      "name": "Sizi Dinliyorum",
+      "poster": "https://images.metahub.space/poster/medium/tt21194680/img",
+      "year": 2022
     }
   ]
 }

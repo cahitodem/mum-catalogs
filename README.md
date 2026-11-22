@@ -9,7 +9,7 @@ Nuvio için kişisel, düzenlenebilir Exxen ve GAİN katalogları. Bu proje yaln
 - GAİN Filmleri
 - GAİN Dizileri
 
-İlk örnekler: Exxen Dizileri içinde *Gibi* (`tt13675832`), GAİN Dizileri içinde *Ayak İşleri* (`tt14344266`). Platform katalogları ve kullanılabilirlik zaman içinde değişebileceğinden listedeki içerikleri kendiniz güncel tutun.
+Başlangıç listesinde Exxen için *Gibi*, *Mahsun J*, *Karşılaşmalar*, *Hükümsüz* ve *Sizi Dinliyorum*; GAİN için *Ayak İşleri*, *10 Bin Adım*, *Duran* ve *Hamlet* bulunur. Platform katalogları ve kullanılabilirlik zaman içinde değişebileceğinden listedeki içerikleri kendiniz güncel tutun.
 
 ## İçerik ekleme
 
@@ -23,7 +23,7 @@ Başlıkları `data/` altındaki ilgili JSON dosyasına ekleyin:
 }
 ```
 
-`id`, IMDb başlık kimliği olmalıdır (`tt` ve rakamlar). Doğru IMDb kimliği Nuvio'nun kurulu metadata eklentisinin afiş ve detayları bulmasına yardımcı olur. Aynı başlığı iki farklı platformun kataloğunda göstermek için iki dosyaya da ekleyebilirsiniz.
+`id`, IMDb başlık kimliği olmalıdır (`tt` ve rakamlar). Derleme, her içerik için poster URL'sini katalog yanıtına ekler. İsterseniz kaynak veride `poster` alanıyla kendi HTTPS poster adresinizi belirtebilirsiniz. Aynı başlığı iki farklı platformun kataloğunda göstermek için iki dosyaya da ekleyebilirsiniz.
 
 ## Derleme ve yerel kontrol
 
@@ -39,4 +39,4 @@ Bu, manifestteki dört katalog için statik Stremio uyumlu yanıtları `catalog/
 
 Manifesti HTTPS üzerinden erişilen statik bir barındırma alanına (örneğin GitHub Pages) yayınlayın. Nuvio'da **Ayarlar → Eklentiler → URL ile ekle** bölümüne yayınlanan `manifest.json` bağlantısını yapıştırın. Kataloglar, aynı barındırma kökünde `catalog/{movie|series}/{id}.json` yollarında bulunmalıdır.
 
-Bu çalışma alanı henüz GitHub Pages'e yayınlanmış bir URL içermiyor. `mum-catalogs/manifest.json` dosyasını `https://<kullanıcı>.github.io/<depo>/manifest.json` biçiminde açılacak şekilde yayınlamadan Nuvio'ya URL ile yükleme tamamlanamaz.
+GitHub Pages kullanılıyorsa manifest URL'si `https://<kullanıcı>.github.io/<depo>/manifest.json` biçimindedir. Güncelleme sonrası Nuvio'da eklentiyi yenileyin; Nuvio önbelleğinde eski katalog yanıtı kalmışsa eklentiyi kaldırıp yeniden ekleyin.

@@ -1,6 +1,6 @@
 {
   "id": "tv.mum.catalogs",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "name": "MUM Türkçe Platform Katalogları",
   "description": "Exxen ve GAİN için düzenlenebilir film ve dizi katalogları. Yalnızca keşif ve metadata sağlar.",
   "resources": ["catalog"],
@@ -11,5 +11,6 @@
     { "type": "movie", "id": "gain-films", "name": "GAİN Filmleri" },
     { "type": "series", "id": "gain-series", "name": "GAİN Dizileri" }
   ],
-  "idPrefixes": ["tt"]
+  "idPrefixes": ["tt"],
+  "posterShape": "poster"
 }

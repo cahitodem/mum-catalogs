@@ -1,5 +1,9 @@
 {
   "items": [
-    { "id": "tt13675832", "name": "Gibi", "year": 2021 }
+    { "id": "tt13675832", "name": "Gibi", "year": 2021 },
+    { "id": "tt31027788", "name": "Mahsun J", "year": 2024 },
+    { "id": "tt33998293", "name": "Karşılaşmalar", "year": 2024 },
+    { "id": "tt13437388", "name": "Hükümsüz", "year": 2021 },
+    { "id": "tt21194680", "name": "Sizi Dinliyorum", "year": 2022 }
   ]
 }

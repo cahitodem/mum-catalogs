@@ -4,6 +4,28 @@
       "id": "tt14344266",
       "type": "series",
       "name": "Ayak İşleri",
+      "poster": "https://images.metahub.space/poster/medium/tt14344266/img",
+      "year": 2021
+    },
+    {
+      "id": "tt13470984",
+      "type": "series",
+      "name": "10 Bin Adım",
+      "poster": "https://images.metahub.space/poster/medium/tt13470984/img",
+      "year": 2020
+    },
+    {
+      "id": "tt15299654",
+      "type": "series",
+      "name": "Duran",
+      "poster": "https://images.metahub.space/poster/medium/tt15299654/img",
+      "year": 2022
+    },
+    {
+      "id": "tt14032126",
+      "type": "series",
+      "name": "Hamlet",
+      "poster": "https://images.metahub.space/poster/medium/tt14032126/img",
       "year": 2021
     }
   ]
